@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-rounded&logo=Notion&logoColor=white">
 <br>
 </div>
+<br>
+
 
 ![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawjsrn&show_icons=true&theme=radical)
 
