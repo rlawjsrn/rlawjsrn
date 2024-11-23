@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20Github%20👋&color=gradient&animation=twinkling&height=200&fontSize=50&fontAlignY=40)
-<br>
-
 
 ## 📞 Contact
 <a href="mailto:aqtc.kim@gmail.com">
