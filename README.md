@@ -8,6 +8,7 @@
 </a>
 
 ## 🔨 Once I've used 🔨
+<div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-rounded&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-rounded&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-rounded&logo=MySQL&logoColor=white">
@@ -28,7 +29,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-rounded&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-rounded&logo=Notion&logoColor=white">
 <br>
-
+</div>
 ![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawjsrn&show_icons=true&theme=radical)
 
 
