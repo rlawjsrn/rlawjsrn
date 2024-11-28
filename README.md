@@ -32,7 +32,11 @@
 
 
 ![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawjsrn&show_icons=true&hide_rank=true&theme=radical&card_width=50)
+<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=rlawjsrn&hide_rank=true&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="BULB's github stats" /></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjsrn&layout=compact&theme=radical)
+<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjsrn&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 
 
