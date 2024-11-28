@@ -31,7 +31,7 @@
 <br>
 
 
-![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawjsrn&show_icons=true&hide_rank=true&theme=radical)
+![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawjsrn&show_icons=true&hide_rank=true&theme=radical&card_width=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjsrn&layout=compact&theme=radical)
 
 
