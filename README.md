@@ -31,7 +31,7 @@
 <br>
 
 
-![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulb=&show_icons=true&theme=radical)
+![Bulb's GitHub stats](https://github-readme-stats.vercel.app/api?usernamerlawjsrn=&show_icons=true&theme=radical)
 
 
 
