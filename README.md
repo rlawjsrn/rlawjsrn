@@ -30,8 +30,8 @@
 </div>
 <br>
 
-<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=rlawjsrn&hide_rank=true&show_icons=true&include_all_commits=true&hide=html&theme=radical&hide_border=true" alt="BULB's github stats" /></a>
-<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjsrn&layout=compact&theme=radical&hide_border=true" /></a> 
+<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=rlawjsrn&hide_rank=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="BULB's github stats" /></a>
+<a href="https://github.com/rlawjsrn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjsrn&layout=compact&hide=html&theme=radical&hide_border=true" /></a> 
 
 
 
